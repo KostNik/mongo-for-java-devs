@@ -2,6 +2,7 @@ package com.edu.mongo.samples;
 
 import com.google.common.collect.ImmutableList;
 import com.mongodb.MongoClient;
+import com.mongodb.QueryBuilder;
 import com.mongodb.ServerAddress;
 import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoDatabase;
